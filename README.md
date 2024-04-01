@@ -1,2 +1,2 @@
 # Python-Programming-Language
-This repository is for simple projects about python programming language.
+This repository is for beginner to professional projects about python programming language.
